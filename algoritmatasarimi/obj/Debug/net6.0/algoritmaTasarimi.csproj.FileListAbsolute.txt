@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\bin\Debug\net6.0\algoritmaTasarimi.exe
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\bin\Debug\net6.0\algoritmaTasarimi.deps.json
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\bin\Debug\net6.0\algoritmaTasarimi.runtimeconfig.json
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\bin\Debug\net6.0\algoritmaTasarimi.dll
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\bin\Debug\net6.0\algoritmaTasarimi.pdb
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\algoritmaTasarimi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\algoritmaTasarimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\algoritmaTasarimi.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\algoritmaTasarimi.AssemblyInfo.cs
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\algoritmaTasarimi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\algoritmaTasarimi.dll
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\refint\algoritmaTasarimi.dll
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\algoritmaTasarimi.pdb
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\algoritmaTasarimi.genruntimeconfig.cache
+C:\Users\user\source\repos\algoritmaTasarimi\algoritmaTasarimi\obj\Debug\net6.0\ref\algoritmaTasarimi.dll
